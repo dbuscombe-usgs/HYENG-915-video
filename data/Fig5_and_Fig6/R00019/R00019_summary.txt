@@ -1,0 +1,21 @@
+head: 193
+water type: 0
+sonar name: 214
+unix time: 1336237438
+x utm: -12450804
+y utm: 4347568
+file name: R00019.SON
+number of records: 14865
+record length (ms): 222685
+line size: 1273
+year: 2012
+month: 05
+day: 05
+hour: 10
+minute: 03
+second: 58
+time string: 2012-05-05 10:03:58
+Longitude is: -111.847475328
+Latitude is: 36.5242570292
+Transformed coordinate x: 219556.374846
+Transformed coordinate y: 612682.888095
