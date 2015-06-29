@@ -1,7 +1,7 @@
 
-![alt tag](https://zenodo.org/badge/doi/10.5281/zenodo.19116.svg)
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.19116.svg)](http://dx.doi.org/10.5281/zenodo.19116)
+*click here for link just to video files*
 
 ## HYENG-915-video
 Supplemental video for "Automated riverbed sediment classification using low-cost sidescan sonar." By Buscombe, Grams and Smith, J. Hydraulic Engineering 2015
